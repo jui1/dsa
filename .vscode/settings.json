@@ -3,9 +3,11 @@
         "recusion",
         "mazeprobel.java",
         "backtraking",
+        "Trees",
+        "Sorting/BubbleSort",
         "Linklist",
         "Linearsearch",
         "Binaryss",
-        "Trees"
+        "bit"
     ]
 }
